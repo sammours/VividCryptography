@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <Authors>Samy Sammour</Authors>
+    <Company>Samy Sammour</Company>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Description>VividCryptography for secure AES encryption and Rfc2898 hashing </Description>
+    <Copyright>Samy Sammour</Copyright>
+    <PackageProjectUrl>https://github.com/samysammour/VividCryptography</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/samysammour/VividCryptography</RepositoryUrl>
+    <PackageTags>Hashing;Encryption;Decryption;Security</PackageTags>
+  </PropertyGroup>
+
+</Project>
